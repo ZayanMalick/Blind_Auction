@@ -32,7 +32,7 @@ git clone https://github.com/ZayanMalick/Blind_Auction.git
 
 Navigate to the project directory:
 
-cd blind-auction
+cd Blind_Auction
 
 Run the auction:
 
